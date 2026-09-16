@@ -1,16 +1,16 @@
-# 💻 Portfolio Personal — Ernani De Magalhães
+# 💻 Portfólio Pessoal — Ernani De Magalhães
 
-¡Bienvenido a mi portfolio personal! 👋
+Bem-vindo ao meu portfólio pessoal! 👋
 
-Este repositorio contiene mi **portfolio web**, donde presento mi experiencia, conocimientos, proyectos y evolución profesional en el mundo de la tecnología.
+Este repositório contém meu **portfólio web**, onde apresento minha experiência, conhecimentos, projetos e evolução profissional no mundo da tecnologia.
 
-## 🚀 Sobre mí
+## 🚀 Sobre mim
 
-Soy **Ernani De Magalhães**, especializado en **e-commerce, gestión digital y desarrollo de proyectos tecnológicos**.
+Sou **Ernani De Magalhães**, especializado em **e-commerce, gestão digital e desenvolvimento de projetos tecnológicos**.
 
-Actualmente estoy profundizando mis conocimientos en **programación con C#**, desarrollo web y **Unity**, con especial interés en el desarrollo de videojuegos.
+Atualmente, estou aprofundando meus conhecimentos em **programação com C#**, desenvolvimento web e **Unity**, com interesse especial no desenvolvimento de jogos.
 
-## 🛠️ Tecnologías
+## 🛠️ Tecnologias
 
 * HTML5
 * CSS3
@@ -20,42 +20,43 @@ Actualmente estoy profundizando mis conocimientos en **programación con C#**, d
 * Unity
 * Git & GitHub
 * Shopify
-* Tiendanube
-* Mercado Libre
+* Nuvemshop
+* Mercado Livre
 
-## 📂 Contenido
+## 📂 Conteúdo
 
-Dentro del portfolio podrás encontrar:
+No portfólio, você encontrará:
 
-* 👤 Sobre mí
-* 💼 Experiencia profesional
-* 💻 Proyectos de programación
-* 🎮 Proyectos relacionados con videojuegos
-* 📚 Libros y recursos que he desarrollado
-* 📄 Currículum Vitae
-* 📞 Información de contacto
-* 🔗 Enlaces a mis repositorios de GitHub
+* 👤 Sobre mim
+* 💼 Experiência profissional
+* 💻 Projetos de programação
+* 🎮 Projetos relacionados a desenvolvimento de jogos
+* 📚 Livros e recursos que desenvolvi
+* 📄 Currículo
+* 📞 Informações de contato
+* 🔗 Links para meus repositórios no GitHub
 
-## 🎮 Proyectos
+## 🎮 Projetos
 
-Algunos de mis proyectos están orientados a:
+Alguns dos meus projetos são voltados para:
 
-* Desarrollo web
-* Aplicaciones y herramientas
-* Programación en C#
-* Desarrollo de videojuegos con Unity
+* Desenvolvimento web
+* Aplicações e ferramentas
+* Programação em C#
+* Desenvolvimento de jogos com Unity
 * E-commerce
-* Proyectos personales y experimentales
+* Projetos pessoais e experimentais
 
-## 📚 Formación continua
+## 📚 Formação contínua
 
-Mi objetivo es seguir desarrollándome como **programador**, incorporando nuevas tecnologías y construyendo proyectos reales que me permitan mejorar constantemente mis habilidades.
+Meu objetivo é continuar me desenvolvendo como **programador**, aprendendo novas tecnologias e construindo projetos reais que me permitam aprimorar constantemente minhas habilidades.
 
-## 📫 Contacto
+## 📫 Contato
 
-Si querés conocer más sobre mi trabajo o contactarme para una oportunidad profesional, podés hacerlo desde mi portfolio.
+Se quiser conhecer mais sobre meu trabalho ou entrar em contato comigo para uma oportunidade profissional, você pode fazer isso através do meu portfólio.
 
 ---
 
-⭐ Si te interesa mi trabajo, ¡podés explorar mis repositorios y seguir mi evolución!
+⭐ Se você se interessou pelo meu trabalho, fique à vontade para explorar meus repositórios e acompanhar minha evolução!
+
 
